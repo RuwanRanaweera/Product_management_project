@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "Orange",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 300,
+      "comment": "not bad",
+      "date": "2023-01-30T18:30:00.000Z",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
